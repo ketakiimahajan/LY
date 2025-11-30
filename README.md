@@ -1,4 +1,4 @@
-# LY – Final Year Engineering (Sem 7)
+# LY – Final Year Engineering (Sem 7) - KJSCE
 
 This repo contains my Semester 7 subjects, notes and experiment files.
 
